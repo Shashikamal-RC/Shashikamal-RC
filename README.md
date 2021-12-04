@@ -105,13 +105,12 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-    [![Shashikamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashikamal-RC)](https://github.com/Shashikamal-RC/github-readme-stats)
-
-
-  <img align="left" alt="Shashikamal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shashikamal-RC&show_icons=true&hide_border=true" />
+    <img align="left" alt="Shashikamal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shashikamal-RC&show_icons=true&hide_border=true" />
 
 </details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashikamal-RC)](https://github.com/Shashikamal-RC/github-readme-stats)
+
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
