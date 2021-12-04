@@ -109,7 +109,11 @@ Here are some ideas to get you started:
 
 </details>
 
+<!-- Most Used Languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashikamal-RC)](https://github.com/Shashikamal-RC/github-readme-stats)
+
+[![Shashikamal R C's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shashikamal-RC)](https://github.com/Shashikamal-RC/github-readme-stats)
+
 
 
 [website]: https://codeSTACKr.com
